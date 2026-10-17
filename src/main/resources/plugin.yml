@@ -1,0 +1,6 @@
+name: HeadShrink
+version: 1.0.0
+main: com.headshrink.HeadShrink
+api-version: '1.21'
+softdepend: [EvolutionSMP]
+description: Right-click a player head to open a menu and shrink yourself.
